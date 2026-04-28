@@ -1,7 +1,8 @@
 # 🎿 Ski Resorts Analytics Dashboard
 
-
-
+<p align="center">
+  <img src="Screenshot 2026-04-28 081350.png" width="600"/>
+</p>
 
 
 ## Overview
@@ -20,7 +21,7 @@ This project presents a comprehensive Power BI dashboard analyzing ski resorts w
 ## Dashboard Preview
 
 <p align="center">
-  <img src="Screenshot 2026-04-28 081350.png" width="600"/>
+ 
   <img src="Screenshot 2026-04-28 081440.png" width="400"/>
   <img src="Screenshot 2026-04-28 082200.png" width="400"/>
 </p>
@@ -29,7 +30,6 @@ This project presents a comprehensive Power BI dashboard analyzing ski resorts w
   <img src="Screenshot 2026-04-28 082343.png" width="400"/>
 </p>
 
----
 
 ## Key Insights
 - Resorts with higher lift capacity handle crowds more efficiently  
@@ -37,8 +37,6 @@ This project presents a comprehensive Power BI dashboard analyzing ski resorts w
 - Some resorts operate year-round  
 - Family-friendly resorts have more beginner slopes  
 - Not all expensive resorts provide the best value  
-
-
 
 ## Tools & Technologies
 
