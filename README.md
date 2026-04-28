@@ -1,8 +1,6 @@
 # 🎿 Ski Resorts Analytics Dashboard
 
-<p align="center">
-  <img src="Screenshot 2026-04-28 081350.png" width="600"/>
-</p>
+
 
 
 
