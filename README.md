@@ -22,6 +22,7 @@ This project presents a comprehensive Power BI dashboard analyzing ski resorts w
 ## Dashboard Preview
 
 <p align="center">
+  <img src="Screenshot 2026-04-28 081350.png" width="600"/>
   <img src="Screenshot 2026-04-28 081440.png" width="400"/>
   <img src="Screenshot 2026-04-28 082200.png" width="400"/>
 </p>
